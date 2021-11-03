@@ -1,0 +1,17 @@
+G:\.net core\examination system\Online Examination System\OnlineExamination.BLL\bin\Debug\net5.0\OnlineExamination.BLL.deps.json
+G:\.net core\examination system\Online Examination System\OnlineExamination.BLL\bin\Debug\net5.0\OnlineExamination.BLL.dll
+G:\.net core\examination system\Online Examination System\OnlineExamination.BLL\bin\Debug\net5.0\ref\OnlineExamination.BLL.dll
+G:\.net core\examination system\Online Examination System\OnlineExamination.BLL\bin\Debug\net5.0\OnlineExamination.BLL.pdb
+G:\.net core\examination system\Online Examination System\OnlineExamination.BLL\bin\Debug\net5.0\OnlineExamination.DataAccess.dll
+G:\.net core\examination system\Online Examination System\OnlineExamination.BLL\bin\Debug\net5.0\OnlineExamination.ViewModels.dll
+G:\.net core\examination system\Online Examination System\OnlineExamination.BLL\bin\Debug\net5.0\OnlineExamination.ViewModels.pdb
+G:\.net core\examination system\Online Examination System\OnlineExamination.BLL\bin\Debug\net5.0\OnlineExamination.DataAccess.pdb
+G:\.net core\examination system\Online Examination System\OnlineExamination.BLL\obj\Debug\net5.0\OnlineExamination.BLL.csprojAssemblyReference.cache
+G:\.net core\examination system\Online Examination System\OnlineExamination.BLL\obj\Debug\net5.0\OnlineExamination.BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\.net core\examination system\Online Examination System\OnlineExamination.BLL\obj\Debug\net5.0\OnlineExamination.BLL.AssemblyInfoInputs.cache
+G:\.net core\examination system\Online Examination System\OnlineExamination.BLL\obj\Debug\net5.0\OnlineExamination.BLL.AssemblyInfo.cs
+G:\.net core\examination system\Online Examination System\OnlineExamination.BLL\obj\Debug\net5.0\OnlineExamination.BLL.csproj.CoreCompileInputs.cache
+G:\.net core\examination system\Online Examination System\OnlineExamination.BLL\obj\Debug\net5.0\OnlineExamination.BLL.csproj.CopyComplete
+G:\.net core\examination system\Online Examination System\OnlineExamination.BLL\obj\Debug\net5.0\OnlineExamination.BLL.dll
+G:\.net core\examination system\Online Examination System\OnlineExamination.BLL\obj\Debug\net5.0\ref\OnlineExamination.BLL.dll
+G:\.net core\examination system\Online Examination System\OnlineExamination.BLL\obj\Debug\net5.0\OnlineExamination.BLL.pdb

@@ -1,0 +1,29 @@
+
+craete solution
+add class library for data access layer
+
+Users(id,name,username,password,role,icollection group)
+student has many groups
+
+groups(id,name,description,usersid,users,icollection students,icollections exams)
+group class hass multiple students and multiple exams
+students(id,name,username,password,contact,cvfilename,picturefilename,groupsid,groups,icollection examresults)
+student has multiple exam results
+student has multipl eexams
+exams(id,title,description,startdate,time,groupsid,groups,icollection examresults,icollection qnas)
+exam has single group
+exam has multiple exma results and multiple qnanswers
+examresults(id,studentsid,students,examsid,exams,qnasid,qnas,answer)
+QnAs(id,examsid,exams,question,answer,option1,option2,option3,option4,icollection examresult = new hashsets  )
+
+
+create dbcontext
+craete ireposiory
+create repository
+create Iunitofwork
+create unitofwork
+
+add new class library viewmodels
+add bussines layer(class library) to add services
+
+

@@ -1,0 +1,15 @@
+G:\.net core\examination system\Online Examination System\OnlineExamination.DataAccess\bin\Debug\net5.0\OnlineExamination.DataAccess.deps.json
+G:\.net core\examination system\Online Examination System\OnlineExamination.DataAccess\bin\Debug\net5.0\OnlineExamination.DataAccess.runtimeconfig.json
+G:\.net core\examination system\Online Examination System\OnlineExamination.DataAccess\bin\Debug\net5.0\OnlineExamination.DataAccess.runtimeconfig.dev.json
+G:\.net core\examination system\Online Examination System\OnlineExamination.DataAccess\bin\Debug\net5.0\OnlineExamination.DataAccess.dll
+G:\.net core\examination system\Online Examination System\OnlineExamination.DataAccess\bin\Debug\net5.0\ref\OnlineExamination.DataAccess.dll
+G:\.net core\examination system\Online Examination System\OnlineExamination.DataAccess\bin\Debug\net5.0\OnlineExamination.DataAccess.pdb
+G:\.net core\examination system\Online Examination System\OnlineExamination.DataAccess\obj\Debug\net5.0\OnlineExamination.DataAccess.csprojAssemblyReference.cache
+G:\.net core\examination system\Online Examination System\OnlineExamination.DataAccess\obj\Debug\net5.0\OnlineExamination.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\.net core\examination system\Online Examination System\OnlineExamination.DataAccess\obj\Debug\net5.0\OnlineExamination.DataAccess.AssemblyInfoInputs.cache
+G:\.net core\examination system\Online Examination System\OnlineExamination.DataAccess\obj\Debug\net5.0\OnlineExamination.DataAccess.AssemblyInfo.cs
+G:\.net core\examination system\Online Examination System\OnlineExamination.DataAccess\obj\Debug\net5.0\OnlineExamination.DataAccess.csproj.CoreCompileInputs.cache
+G:\.net core\examination system\Online Examination System\OnlineExamination.DataAccess\obj\Debug\net5.0\OnlineExamination.DataAccess.dll
+G:\.net core\examination system\Online Examination System\OnlineExamination.DataAccess\obj\Debug\net5.0\ref\OnlineExamination.DataAccess.dll
+G:\.net core\examination system\Online Examination System\OnlineExamination.DataAccess\obj\Debug\net5.0\OnlineExamination.DataAccess.pdb
+G:\.net core\examination system\Online Examination System\OnlineExamination.DataAccess\obj\Debug\net5.0\OnlineExamination.DataAccess.genruntimeconfig.cache

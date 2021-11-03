@@ -1,0 +1,15 @@
+G:\.net core\examination system\Online Examination System\OnlineExamination.ViewModels\bin\Debug\net5.0\OnlineExamination.ViewModels.deps.json
+G:\.net core\examination system\Online Examination System\OnlineExamination.ViewModels\bin\Debug\net5.0\OnlineExamination.ViewModels.dll
+G:\.net core\examination system\Online Examination System\OnlineExamination.ViewModels\bin\Debug\net5.0\ref\OnlineExamination.ViewModels.dll
+G:\.net core\examination system\Online Examination System\OnlineExamination.ViewModels\bin\Debug\net5.0\OnlineExamination.ViewModels.pdb
+G:\.net core\examination system\Online Examination System\OnlineExamination.ViewModels\bin\Debug\net5.0\OnlineExamination.DataAccess.dll
+G:\.net core\examination system\Online Examination System\OnlineExamination.ViewModels\bin\Debug\net5.0\OnlineExamination.DataAccess.pdb
+G:\.net core\examination system\Online Examination System\OnlineExamination.ViewModels\obj\Debug\net5.0\OnlineExamination.ViewModels.csprojAssemblyReference.cache
+G:\.net core\examination system\Online Examination System\OnlineExamination.ViewModels\obj\Debug\net5.0\OnlineExamination.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\.net core\examination system\Online Examination System\OnlineExamination.ViewModels\obj\Debug\net5.0\OnlineExamination.ViewModels.AssemblyInfoInputs.cache
+G:\.net core\examination system\Online Examination System\OnlineExamination.ViewModels\obj\Debug\net5.0\OnlineExamination.ViewModels.AssemblyInfo.cs
+G:\.net core\examination system\Online Examination System\OnlineExamination.ViewModels\obj\Debug\net5.0\OnlineExamination.ViewModels.csproj.CoreCompileInputs.cache
+G:\.net core\examination system\Online Examination System\OnlineExamination.ViewModels\obj\Debug\net5.0\OnlineExamination.ViewModels.csproj.CopyComplete
+G:\.net core\examination system\Online Examination System\OnlineExamination.ViewModels\obj\Debug\net5.0\OnlineExamination.ViewModels.dll
+G:\.net core\examination system\Online Examination System\OnlineExamination.ViewModels\obj\Debug\net5.0\ref\OnlineExamination.ViewModels.dll
+G:\.net core\examination system\Online Examination System\OnlineExamination.ViewModels\obj\Debug\net5.0\OnlineExamination.ViewModels.pdb
